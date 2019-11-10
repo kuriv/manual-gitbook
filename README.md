@@ -1,8 +1,10 @@
 # GitBook
 
-> GitBook 是一个基于 Node.js 的命令行工具，可以使用 Github / Git 和 Markdown 来制作精美的电子书。
+> GitBook 是一个基于 Node.js 的命令行工具，可以用来制作精美的电子书。
 
-[![build][build-image]][build-url][![status][status-image]][status-url][![license][license-image]][license-url]
+[![build][build-image]][build-url]
+[![status][status-image]][status-url]
+[![license][license-image]][license-url]
 
 
 
