@@ -1,4 +1,4 @@
-# GitBook 是什么
+# GitBook
 
 GitBook 是一个基于 Node.js 的命令行工具。
 
