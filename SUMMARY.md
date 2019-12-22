@@ -6,5 +6,11 @@
     * [配置文件](docs/配置文件.md)
     * [创建目录](docs/创建目录.md)
     * [目录结构](docs/目录结构.md)
+    * [插件清单](docs/插件清单.md)
+        * [search-pro](docs/插件清单/search-pro.md)
+        * [chapter-fold](docs/插件清单/chapter-fold.md)
+        * [splitter](docs/插件清单/splitter.md)
+        * [back-to-top-button](docs/插件清单/back-to-top-button.md)
+        * [favicon](docs/插件清单/favicon.md)
     * [输出为静态网站](docs/输出为静态网站.md)
 

@@ -11,7 +11,9 @@
     "language": "zh-hans",
     "direction": "ltr",
     "gitbook": ">=3.0.0",
-    "plugins": ["favicon"],
+    "plugins": [
+        "-lunr", "-search", "search-pro", "chapter-fold", "splitter", "back-to-top-button", "favicon"
+    ],
     "pluginsConfig": {
         "favicon": {
             "shortcut": "favicon.ico",

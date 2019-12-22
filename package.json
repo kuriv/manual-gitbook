@@ -27,6 +27,10 @@
   },
   "homepage": "https://github.com/kuriv/manual-gitbook#readme",
   "dependencies": {
-    "gitbook-plugin-favicon": "0.0.2"
+    "gitbook-plugin-back-to-top-button": "^0.1.4",
+    "gitbook-plugin-chapter-fold": "0.0.4",
+    "gitbook-plugin-favicon": "0.0.2",
+    "gitbook-plugin-search-pro": "^2.0.2",
+    "gitbook-plugin-splitter": "0.0.8"
   }
 }
