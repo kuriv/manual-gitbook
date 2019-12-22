@@ -14,12 +14,12 @@
     "plugins": ["favicon"],
     "pluginsConfig": {
         "favicon": {
-            "shortcut": "gitbook.ico",
-            "bookmark": "gitbook.ico",
-            "appleTouch": "gitbook.ico",
+            "shortcut": "favicon.ico",
+            "bookmark": "favicon.ico",
+            "appleTouch": "favicon.ico",
             "appleTouchMore": {
-                "120x120": "gitbook.ico",
-                "180x180": "gitbook.ico"
+                "120x120": "favicon.ico",
+                "180x180": "favicon.ico"
             }
         }
     }

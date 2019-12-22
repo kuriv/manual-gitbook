@@ -14,12 +14,19 @@
     "url": "git+https://github.com/kuriv/manual-gitbook.git"
   },
   "keywords": [
-    "gitbook", "gitbook-cli", "gitbook-github", "gitbook-plugin", "gitbook-doc"
+    "gitbook",
+    "gitbook-cli",
+    "gitbook-github",
+    "gitbook-plugin",
+    "gitbook-doc"
   ],
   "author": "Kuriv Vesti",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kuriv/manual-gitbook/issues"
   },
-  "homepage": "https://github.com/kuriv/manual-gitbook#readme"
+  "homepage": "https://github.com/kuriv/manual-gitbook#readme",
+  "dependencies": {
+    "gitbook-plugin-favicon": "0.0.2"
+  }
 }
