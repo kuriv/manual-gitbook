@@ -10,5 +10,17 @@
     "isbn": "",
     "language": "zh-hans",
     "direction": "ltr",
-    "gitbook": ">=3.0.0"
+    "gitbook": ">=3.0.0",
+    "plugins": ["favicon"],
+    "pluginsConfig": {
+        "favicon": {
+            "shortcut": "gitbook.ico",
+            "bookmark": "gitbook.ico",
+            "appleTouch": "gitbook.ico",
+            "appleTouchMore": {
+                "120x120": "gitbook.ico",
+                "180x180": "gitbook.ico"
+            }
+        }
+    }
 }
