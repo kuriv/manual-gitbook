@@ -10,7 +10,7 @@
 
 然后执行下面的命令，安装插件依赖。
 
-```shell
+```
 npm install --save gitbook-plugin-chapter-fold
 ```
 

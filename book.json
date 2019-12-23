@@ -12,7 +12,7 @@
     "direction": "ltr",
     "gitbook": ">=3.0.0",
     "plugins": [
-        "-lunr", "-search", "search-pro", "chapter-fold", "splitter", "back-to-top-button", "favicon"
+        "back-to-top-button", "chapter-fold", "favicon", "hide-element", "lightbox", "-highlight", "prism", "-lunr", "-search", "search-pro", "splitter"
     ],
     "pluginsConfig": {
         "favicon": {
@@ -23,6 +23,12 @@
                 "120x120": "favicon.ico",
                 "180x180": "favicon.ico"
             }
+        },
+        "hide-element": {
+            "elements": [".gitbook-link"]
+        },
+        "prism": {
+            "css": ["prismjs/themes/prism-okaidia.css"]
         }
     }
 }
