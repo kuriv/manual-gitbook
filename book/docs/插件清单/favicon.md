@@ -9,10 +9,10 @@
         "favicon": {
             "shortcut": "favicon.ico",
             "bookmark": "favicon.ico",
-            "appleTouch": "favicon.ico",
+            "appleTouch": "favicon.png",
             "appleTouchMore": {
-                "120x120": "favicon.ico",
-                "180x180": "favicon.ico"
+                "120x120": "favicon-120x120.png",
+                "180x180": "favicon-180x180.png"
             }
         }
     }
