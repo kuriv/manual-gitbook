@@ -13,6 +13,6 @@
 然后执行下面的命令，安装插件依赖。
 
 ```
-npm install --save gitbook-plugin-search-pro
+npm install gitbook-plugin-search-pro
 ```
 

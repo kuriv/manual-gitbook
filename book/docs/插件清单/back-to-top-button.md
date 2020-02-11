@@ -11,7 +11,7 @@
 然后执行下面的命令，安装插件依赖。
 
 ```
-npm install --save gitbook-plugin-back-to-top-button
+npm install gitbook-plugin-back-to-top-button
 ```
 
 安装完成后即可在右下角显示回到顶部按钮。

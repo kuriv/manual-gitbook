@@ -16,7 +16,7 @@
 然后执行下面的命令，安装插件依赖。
 
 ```
-npm install --save gitbook-plugin-hide-element
+npm install gitbook-plugin-hide-element
 ```
 
 安装完成后即可隐藏指定的元素。

@@ -11,7 +11,7 @@
 然后执行下面的命令，安装插件依赖。
 
 ```
-npm install --save gitbook-plugin-lightbox
+npm install gitbook-plugin-lightbox
 ```
 
 安装完成后即可在页面弹窗显示图片。

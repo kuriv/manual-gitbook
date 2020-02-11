@@ -22,7 +22,7 @@
 然后执行下面的命令，安装插件依赖。
 
 ```
-npm install --save gitbook-plugin-favicon
+npm install gitbook-plugin-favicon
 ```
 
 安装完成后，将小图标存放到上述配置文件中指定的位置，即可修改网站的小图标。
